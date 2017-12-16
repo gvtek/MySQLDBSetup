@@ -1,5 +1,4 @@
 # !/usr/bin/env bash
-# cookbookfilename: dbiniter
 #
 # initialize databases from a standard file
 # creating databases as needed
