@@ -1,4 +1,4 @@
-# !/usr/bin/env bash
+# !/bin/bash
 #
 # initialize databases from a standard file
 # creating databases as needed
